@@ -117,4 +117,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Result:
-
+Thus a Simple Android Creation to create an Thread synchronization using Android Studio was developed and executed successfully.
