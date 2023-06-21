@@ -114,6 +114,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
+<img width="257" alt="image" src="https://github.com/Nagajyothichinta/SkillAss-01/assets/94191344/5a9efb5c-e129-484d-8397-6bbe2e088740">
+
+<img width="514" alt="image" src="https://github.com/Nagajyothichinta/SkillAss-01/assets/94191344/180b10c3-3f53-4afa-96f7-901fc1d5307a">
+
 
 
 ## Result:
